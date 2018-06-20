@@ -47,4 +47,4 @@ Main configuration can be done by setting the directory of the property files, a
 
 
 # License 
-WAVES Mobile Player for Virtual Patiens is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
+WAVES Internationalization support for CASUS is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
