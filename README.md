@@ -8,9 +8,9 @@ The WAVES project combines skill sets of both academic and enterprise partners t
 
 # Online demo
 
-Visit the following link:
+More information about how to request a demo:
 
-[WAVES Internationalisation support for CASUS Demo](http://olab.wavesnetwork.eu)
+[WAVES Internationalisation support for CASUS Demo](https://www.instruct.eu/en/)
 
 # What's in the box
 
