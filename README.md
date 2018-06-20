@@ -1,4 +1,4 @@
-# Internationalisation support for CASUS
+# Internationalization support for CASUS
 
 # The WAVES Project
 
