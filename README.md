@@ -38,5 +38,11 @@ You can contribute through pull requests. You can either:
 1. Improve existing translations
 2. Suggest new translations
 
+You can use the free GUI-translation tool from Martin Adler, also part of the WAVES project.
+The tool sources are available in an open bitbucket repository [https://bitbucket.org/gulpipvt/i18properties](https://bitbucket.org/gulpipvt/i18properties).
+
+Main configuration can be done by setting the directory of the property files, access control can be achieved by using standard JAVA webapp access methods, so can also be integrated into other systems.
+
+
 # License 
 WAVES Mobile Player for Virtual Patiens is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
