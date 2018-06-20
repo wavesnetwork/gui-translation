@@ -12,6 +12,8 @@ More information about how to request a demo:
 
 [WAVES Internationalisation support for CASUS Demo](https://www.instruct.eu/en/)
 
+Polish translation of the GUI is ready and part of the CASUS web site [http://krakow.casus.net](http://krakow.casus.net)
+
 # What's in the box
 
 The [CASUS Learning System](https://www.instruct.eu/en/) has at this moment about 2.400 labels and text blocks per language. In the past CASUS focused on
